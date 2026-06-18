@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { supabase } from '../supabaseClient';
 
-const SENHA_ADMIN = process.env.REACT_APP_ADMIN_PASSWORD || 'genthe2026';
+const SENHA_ADMIN = process.env.REACT_APP_ADMIN_PASSWORD || 'Assistenteadm2026';
 
 const estilos = `
   * { box-sizing: border-box; margin: 0; padding: 0; }
